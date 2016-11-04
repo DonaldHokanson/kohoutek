@@ -1,0 +1,34 @@
+{
+  "apartments": [
+    {
+      "id": "1",
+      "description": "Beautiful Duplex in downtown Yankton",
+      "city": "Duplex",
+      "state": "South Dakota",
+      "neighborhood": "Duplex",
+      "price": "$500",
+      "bedrooms": "2",
+      "address": "234 Test Street, Yankton, SD 57078"
+    },
+    {
+      "id": "2",
+      "description": "Beautiful Duplex in uptown Yankton",
+      "city": "Duplex",
+      "state": "South Dakota",
+      "neighborhood": "Duplex",
+      "price": "$500",
+      "bedrooms": "2",
+      "address": "234 Test Street, Yankton, SD 57078"
+    },
+    {
+      "id": "3",
+      "description": "Beautiful Apartments in downtown Yankton",
+      "city": "Apartments",
+      "state": "South Dakota",
+      "neighborhood": "Apartments",
+      "price": "$500",
+      "bedrooms": "2",
+      "address": "234 Test Street, Yankton, SD 57078"
+    }
+  ]
+}
